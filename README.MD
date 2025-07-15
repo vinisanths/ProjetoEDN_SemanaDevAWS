@@ -41,6 +41,7 @@ A construção foi uma aventura dividida em quatro dias intensos:
 
 * **Dia 2️⃣: O Poder dos Arquivos**
     * **Foco:** Ingestão de Arquivos via S3 e Rastreamento.
+        - **Servicos**: DynamoDB, S3, Lambda, SQS, SNS, IAM
 
 * **Dia 3️⃣: O Coração do Sistema**
     * **Foco:** Processamento Central de Pedidos e Persistência.
