@@ -37,6 +37,7 @@ Nossa arquitetura é como uma orquestra bem afinada, onde cada serviço da AWS t
 A construção foi uma aventura dividida em quatro dias intensos:
 * **Dia 1️⃣: A Porta de Entrada**
     * **Foco:** Ingestão de Pedidos via API e EventBridge.
+        - **Servicos**: IAM, Lambda, API Gateway, EventBridge E SQS.
 
 * **Dia 2️⃣: O Poder dos Arquivos**
     * **Foco:** Ingestão de Arquivos via S3 e Rastreamento.
@@ -66,11 +67,8 @@ Pronto para colocar a mão na massa?] Siga os passos abaixo para replicar o proj
     ```
 
 3.  **Instale as Dependências Mágicas:**
-    * _(Insira aqui os comandos, por exemplo: `npm install`)_
-
+    
 4.  **Lance o Foguete (Deploy):**
-    * _(Insira aqui os comandos de deploy, como: `sam deploy --guided` ou `serverless deploy`)_
-
 ---
 
 ## 🤝 Quer Fazer Parte? (Contribuição)
