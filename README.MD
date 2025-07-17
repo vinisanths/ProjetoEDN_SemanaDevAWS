@@ -45,6 +45,7 @@ A construção foi uma aventura dividida em quatro dias intensos:
 
 * **Dia 3️⃣: O Coração do Sistema**
     * **Foco:** Processamento Central de Pedidos e Persistência.
+        - **Servicos:**: Lambda, SQS, EventBridge, IAM, DynamoDB 
 
 * **Dia 4️⃣: Refinando a Resiliência**
     * **Foco:** Implementação de Fluxos Adicionais de Pedidos e DLQs.
