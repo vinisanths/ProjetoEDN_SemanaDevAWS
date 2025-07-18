@@ -49,6 +49,7 @@ A construção foi uma aventura dividida em quatro dias intensos:
 
 * **Dia 4️⃣: Refinando a Resiliência**
     * **Foco:** Implementação de Fluxos Adicionais de Pedidos e DLQs.
+        - **Servicos:**: IAM, SNS, SQS, Lambda, EventBridge, DynamoDB, CLoudWatch 
 
 ---
 
