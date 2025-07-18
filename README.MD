@@ -1,6 +1,6 @@
 # 🚀 Semana do Desenvolvedor AWS: Arquitetura de Eventos em Ação! 🚀
 
-![Demonstração da Arquitetura do Projeto](https://i.imgur.com/Uv3gV5h.png)
+![Demonstração da Arquitetura do Projeto](https://imgur.com/1Kd3eZ6.png)
 _Uma espiada na poderosa arquitetura que construímos juntos!_
 
 ---
